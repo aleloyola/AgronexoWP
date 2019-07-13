@@ -1,6 +1,3 @@
-<?php
-
-
 			<!-- Header -->
 			<header class="header header-absolute header-transparent header-fixed-on-mobile" data-helper-in-threshold="200" data-helper-out-threshold="500" data-sticky-threshold="200" data-bkg-threshold="100">
 				<div class="header-inner">
@@ -82,4 +79,3 @@
 				</div>
 			</header>
 			<!-- Header End -->
-?>

@@ -1,4 +1,4 @@
-<?php
+
 <!-- Side Navigation Menu -->
 	<aside class="side-navigation-wrapper enter-right" data-no-scrollbar data-animation="slide-in">
 		<div class="side-navigation-scroll-pane">
@@ -492,4 +492,3 @@
 		</div>
 	</aside>
 	<!-- Side Navigation Menu End -->
-?>

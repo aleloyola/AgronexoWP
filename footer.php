@@ -1,4 +1,3 @@
-<?php
 
 			<!-- Footer -->
 			<footer class="footer footer-light with-border">
@@ -68,4 +67,3 @@
 				</div>
 			</footer>
 			<!-- Footer End -->
-?>
