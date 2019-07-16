@@ -9,15 +9,15 @@
 									<div class="row flex">
 										<div class="column width-6 v-align-middle">
 											<div>
-												<h1 class="mb-0">Frequently Asked Questions</h1>
-												<p class="lead mb-0 mb-mobile-20">Updated 22 Oct 2017</p>
+												<h1 class="mb-0">Preguntaas frecuentes</h1>
+												<p class="lead mb-0 mb-mobile-20">Actualizado al 16 Jul 2019</p>
 											</div>
 										</div>
 										<div class="column width-6 v-align-middle">
 											<div>
 												<ul class="breadcrumb inline-block mb-0 pull-right clear-float-on-mobile">
 													<li>
-														<a href="index.html">Home</a>
+														<a href="index.php">Home</a>
 													</li>
 													<li>
 														FAQ
@@ -42,44 +42,70 @@
 							<div class="accordion style-2 rounded" data-toggle-icon data-toggle-multiple>
 								<ul>
 									<li class="active">
-										<a href="#accordion-1-panel-1">Can I create an account for free?</a>
+										<a href="#accordion-1-panel-1">¿Como me inscribo para vender o comprar?</a>
 										<div id="accordion-1-panel-1">
 											<div class="accordion-content">
-												<p class="lead mb-20">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
-												<p>Accordions are a great way for presenting information in a limited amount of space. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+												<p class="lead mb-20">Desde este mismo sitio, en la página principal</p>
+												<p>luego opción Registrarse como vendedor o comprador e ingresar los datos que se te solicitarán.</p>
 											</div>
 										</div>
 									</li>
 									<li>
-										<a href="#accordion-1-panel-2">What payment methods are offerred?</a>
+										<a href="#accordion-1-panel-2">¿Se requiere alguna capacitaciòn o algún software para inscribirse?</a>
 										<div id="accordion-1-panel-2">
 											<div class="accordion-content">
-												<p class="lead mb-20">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
-												<p>Accordions are a great way for presenting information in a limited amount of space. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p>
+												<p class="lead mb-20">No es necesario recibir una capacitación presencial, pues el uso de Agronexo es muy sencillo e intuitivo.</p>
+												<p>No obstante, si necesitas apoyo adicional, una vez ingreses a tu cuenta debes escoger la opción Ayuda, donde podrás acceder a tutorial de uso para vendedor y comprador.</p>
 											</div>
 										</div>
 									</li>
 									<li>
-										<a href="#accordion-1-panel-3">How do I cancel my account?</a>
+										<a href="#accordion-1-panel-3">¿En que categorías puedo participar?</a>
 										<div id="accordion-1-panel-3">
 											<div class="accordion-content">
-												<p class="lead mb-20">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
-												<p>Accordions are a great way for presenting information in a limited amount of space. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+												<p class="lead mb-20">Puedes participar en las categorías que desees en la medida que efectivamente QUIERA VENDER O COMPRAR. </p>
+												<p>El registro de categorías se realiza una vez tienes creada tu cuenta accediendo a la opción Configuración.</p>
 											</div>
 										</div>
 									</li>
 									<li>
-										<a href="#accordion-1-panel-4">Additional Info</a>
+										<a href="#accordion-1-panel-4">¿Como me aseguro que me lleguen las propuestas?</a>
 										<div id="accordion-1-panel-4">
 											<div class="accordion-content">
-												<p class="lead mb-20">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
-												<p>Accordions are a great way for presenting information in a limited amount of space. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p>
+												<p>Una vez inscrito en la(s) categorías(s) de tu interés, de forma automática te comenzarán a llegar las PROPUESTAS que tengan relación con esas categorías.</p>
 											</div>
 										</div>
 									</li>
 									<li>
-										<a href="#accordion-1-panel-5">How can I reset my password?</a>
+										<a href="#accordion-1-panel-5">¿Pueden ver mis precios los otros vendedores?</a>
 										<div id="accordion-1-panel-5">
+											<div class="accordion-content">
+												<p class="lead mb-20">No. La información ingresada a AGRONEXO es absolutamente confidencial y se resguarda bajo los más estrictos estándares de seguridad y acordes a la normativa vigente que regula la libre competencia.</p>
+												<p>Por lo anterior, ningún VENDEDOR tendrá acceso a información de otros VENDEDORES. Tampoco se conocerá quienes están participando de un determinado proceso.</p>
+											</div>
+										</div>
+									</li>
+									<li>
+										<a href="#accordion-1-panel-6">¿El comprador puede ver mi precio antes de la fecha de la cosecha?</a>
+										<div id="accordion-1-panel-6">
+											<div class="accordion-content">
+												<p class="lead mb-20">Si.</p>
+												<p>El comprador sólo tendrá acceso a las ofertas realizada en AGRONEXO por el agricultor, una vez concluya el plazo de publicación de la venta (cosecha y entrega) el comprador deberá cancelar contra entrega el producto o podrá anticipar el pago según lo convengan.</p>
+											</div>
+										</div>
+									</li>
+									<li>
+										<a href="#accordion-1-panel-7">¿Los precios de los productos de los vendedores que ha realizado a través del portal AgroNexo son accesibles para otros compradores?</a>
+										<div id="accordion-1-panel-7">
+											<div class="accordion-content">
+												<p class="lead mb-20">SI.</p>
+												<p>La información ingresada a AGRONEXO es absolutamente ABIERTA uno o más compradores podrán ver el precio de venta, no así lo podrán ver otros vendedores, resguardando así la libre competencia. </p>
+											</div>
+										</div>
+									</li>
+									<li>
+										<a href="#accordion-1-panel-8">Are list ID's required?</a>
+										<div id="accordion-1-panel-8">
 											<div class="accordion-content">
 												<p class="lead mb-20">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
 												<p>Accordions are a great way for presenting information in a limited amount of space. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
@@ -87,17 +113,44 @@
 										</div>
 									</li>
 									<li>
-										<a href="#accordion-1-panel-6">How can I generate an account token?</a>
-										<div id="accordion-1-panel-6">
+										<a href="#accordion-1-panel-9">Are list ID's required?</a>
+										<div id="accordion-1-panel-9">
 											<div class="accordion-content">
 												<p class="lead mb-20">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
-												<p>Accordions are a great way for presenting information in a limited amount of space. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p>
+												<p>Accordions are a great way for presenting information in a limited amount of space. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 											</div>
 										</div>
 									</li>
 									<li>
-										<a href="#accordion-1-panel-7">Are list ID's required?</a>
-										<div id="accordion-1-panel-7">
+										<a href="#accordion-1-panel-10">Are list ID's required?</a>
+										<div id="accordion-1-panel-10">
+											<div class="accordion-content">
+												<p class="lead mb-20">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
+												<p>Accordions are a great way for presenting information in a limited amount of space. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+											</div>
+										</div>
+									</li>
+									<li>
+										<a href="#accordion-1-panel-11">Are list ID's required?</a>
+										<div id="accordion-1-panel-11">
+											<div class="accordion-content">
+												<p class="lead mb-20">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
+												<p>Accordions are a great way for presenting information in a limited amount of space. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+											</div>
+										</div>
+									</li>
+									<li>
+										<a href="#accordion-1-panel-12">Are list ID's required?</a>
+										<div id="accordion-1-panel-12">
+											<div class="accordion-content">
+												<p class="lead mb-20">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
+												<p>Accordions are a great way for presenting information in a limited amount of space. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+											</div>
+										</div>
+									</li>
+									<li>
+										<a href="#accordion-1-panel-13">Are list ID's required?</a>
+										<div id="accordion-1-panel-13">
 											<div class="accordion-content">
 												<p class="lead mb-20">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
 												<p>Accordions are a great way for presenting information in a limited amount of space. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
@@ -114,7 +167,7 @@
 							<div class="sidebar-inner">
 								<div class="freeze with-background" data-extra-space-top="100" data-extra-space-bottom="0" data-push-section="#pagination">
 									<div class="widget">
-										<h3 class="widget-title">Search</h3>
+										<h3 class="widget-title">Búsqueda</h3>
 										<div class="search-form-container site-search">
 											<form action="#" method="get" novalidate>
 												<div class="row">
@@ -130,16 +183,15 @@
 										</div>
 									</div>
 									<div class="widget">
-										<h3 class="widget-title">Can't Find Your Question?</h3>
-										<p><strong>Starting a new business?</strong> Then Faulkner is for you! This multi-purpose template offers 8 carefully crafted concepts with two variations each, 20+ components and 8+ plugins.</p>
-										<a href="#" class="button rounded medium bkg-theme bkg-hover-theme color-white color-hover-white">Make a suggestion</a>
+										<h3 class="widget-title">¿No pudiste encontrar la respuesta?</h3>
+										<a href="#" class="button rounded medium bkg-theme bkg-hover-theme color-white color-hover-white">Haz una sugerencia</a>
 									</div>
 									<div class="widget">
-										<h3 class="widget-title">Additional Help</h3>
+										<h3 class="widget-title">Ayuda adicional</h3>
 										<ul>
-											<li><a href="#">Contact Us</a></li>
-											<li><a href="#">Chat with Agent</a></li>
-											<li><a href="#">Visit Support</a></li>
+											<li><a href="#">Contactanos</a></li>
+											<!--<li><a href="#">Chat with Agent</a></li> -->
+											<li><a href="#">Visita de soporte</a></li>
 										</ul>
 									</div>
 								</div>
