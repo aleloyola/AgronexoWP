@@ -13,8 +13,6 @@ $company_address = $_POST['company_address'];
 $company_city = $_POST['company_city'];
 $company_website = $_POST['company_website'];
 
-
-
 $user_name = $_POST['user_name'];
 $user_email = $_POST['user_email'];
 $user_phone = $_POST['user_phone'];
@@ -36,11 +34,11 @@ if (!empty($_POST))
 
 }
 
-$sql = "INSERT INTO prospect_vendor (country, company_name, company_industry, company_legalname,company_address,company_city,company_website,user_name,user_email,user_phone,user_position) ";
+$sql = "INSERT INTO prospect_buyer (country, company_name, company_industry, company_legalname,company_address,company_city,company_website,user_name,user_email,user_phone,user_position) ";
 $sql = $sql . "VALUES ('" . $country . "', '" . $company_name . "','" . $company_industry . "' , '" . $company_legalname . "','" .$company_address  . "','" . $company_city .  "','" . $company_website .  "','" . $user_name  .  "', '" . $user_email . "', '" . $user_phone. "','" . $user_position .   "')";
 
 if ($conn->query($sql) === TRUE) {
-    echo "New record created successfully - vendor";
+    echo "New record created successfully - buyer";
 } else {
     echo "Error: " . $sql . "<br>" . $conn->error;
 }

@@ -1,6 +1,6 @@
 
 
-<form name="contact-form" action="content/post_vendor.php" method="post" id="contact-form">
+<form name="contact-form" action="content/post_buyer.php" method="post" id="contact-form">
 
 <div class="form-group">
 <label for="Country">Country</label>
