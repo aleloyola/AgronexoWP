@@ -16,20 +16,20 @@ Inscríbete en cualquiera de nuestros servicios y se parte de nosotros</p>
 								</div>
 								<div class="column width-5 offset-1">
 									<div class="signup-box box rounded xlarge mb-0 bkg-white shadow">
-										<h3>Register an Account</h3>
-										<p class="mb-20">Already have an account? <a href="index-login-4.html" class="fade-location">Click Here</a></p>
+										<h3>Crear una cuenta</h3>
+										<p class="mb-20">¿Ya tienes una cuenta? <a href="index-login-4.html" class="fade-location">Clickea aquí</a></p>
 										<div class="register-form-container">
 											<form class="register-form" action="#" method="post" novalidate>
 												<div class="row merged-form-elements">
 													<div class="column width-6">
 														<div class="field-wrapper">
-															<label class="color-charcoal">First Name:</label>
+															<label class="color-charcoal">Nombre:</label>
 															<input type="text" name="register[firstname]" class="form-firstname form-element rounded medium" placeholder="John" required>
 														</div>
 													</div>
 													<div class="column width-6">
 														<div class="field-wrapper">
-															<label class="color-charcoal">Last Name:</label>
+															<label class="color-charcoal">Apellido:</label>
 															<input type="text" name="register[lastname]" class="form-lastname form-element rounded medium" placeholder="Doe" required>
 														</div>
 													</div>
@@ -48,11 +48,11 @@ Inscríbete en cualquiera de nuestros servicios y se parte de nosotros</p>
 														</div>
 													</div>
 													<div class="column width-12 mt-10 center">
-														<input type="submit" value="Create Account" class="form-submit button rounded medium bkg-green bkg-hover-theme bkg-focus-green color-white color-hover-white no-margins">
+														<input type="submit" value="Crear cuenta" class="form-submit button rounded medium bkg-green bkg-hover-theme bkg-focus-green color-white color-hover-white no-margins">
 													</div>
 												</div>
 											</form>
-											<p class="text-small mt-20 center">By creating an account you agree to our terms - <a href="#">Read More</a></p>
+											<p class="text-small mt-20 center">Al crear una cuenta estas aceptando los terminos y condiciones - <a href="terms.php">Leer más</a></p>
 											<div class="form-response show"></div>
 										</div>
 									</div>
