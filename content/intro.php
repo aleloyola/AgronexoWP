@@ -6,10 +6,11 @@
 							<div class="row flex one-column-on-tablet">
 								<div class="column width-6 v-align-middle">
 									<div>
-										<h1 class="color-white">Get Closer to Your Clients</h1>
-										<p class="lead color-white">Faulkner is a web app that enables anyone to send, receive, and pay for goods and services with the tap of a button.</p>
+										<h1 class="color-white">AgroNexo | Tú negocio, tú decisión</h1>
+										<p class="lead color-white">AgroNexo se fundó sobre tres principios: calidad, precios justos y servicio único, y nos enorgullece regirnos por ellos día a día. Contamos con excelente atención al cliente para cubrir todas sus necesidades. Descubre lo que podemos hacer por ti, 
+Inscríbete en cualquiera de nuestros servicios y se parte de nosotros</p>
 										<a href="#about" class="scroll-link button rounded medium border-white bkg-hover-green color-white color-hover-white left mb-80">
-											Discover Our Product
+											Descubre nuestra solución
 										</a>
 									</div>
 								</div>
