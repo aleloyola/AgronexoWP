@@ -51,7 +51,7 @@
 										</div>
 									</li>
 									<li>
-										<a href="#accordion-1-panel-2">¿Se requiere alguna capacitaciòn o algún software para inscribirse?</a>
+										<a href="#accordion-1-panel-2">¿Se requiere alguna capacitación o algún software para inscribirse?</a>
 										<div id="accordion-1-panel-2">
 											<div class="accordion-content">
 												<p class="lead mb-20">No es necesario recibir una capacitación presencial, pues el uso de Agronexo es muy sencillo e intuitivo.</p>
@@ -80,7 +80,7 @@
 										<a href="#accordion-1-panel-5">¿Pueden ver mis precios los otros vendedores?</a>
 										<div id="accordion-1-panel-5">
 											<div class="accordion-content">
-												<p class="lead mb-20">No. La información ingresada a AGRONEXO es absolutamente confidencial y se resguarda bajo los más estrictos estándares de seguridad y acordes a la normativa vigente que regula la libre competencia.</p>
+												<p class="lead mb-20">No. La información ingresada a AgroNexo es absolutamente confidencial y se resguarda bajo los más estrictos estándares de seguridad y acordes a la normativa vigente que regula la libre competencia.</p>
 												<p>Por lo anterior, ningún VENDEDOR tendrá acceso a información de otros VENDEDORES. Tampoco se conocerá quienes están participando de un determinado proceso.</p>
 											</div>
 										</div>
@@ -90,7 +90,7 @@
 										<div id="accordion-1-panel-6">
 											<div class="accordion-content">
 												<p class="lead mb-20">Si.</p>
-												<p>El comprador sólo tendrá acceso a las ofertas realizada en AGRONEXO por el agricultor, una vez concluya el plazo de publicación de la venta (cosecha y entrega) el comprador deberá cancelar contra entrega el producto o podrá anticipar el pago según lo convengan.</p>
+												<p>El comprador sólo tendrá acceso a las ofertas realizada en AgroNexo por el agricultor, una vez concluya el plazo de publicación de la venta (cosecha y entrega) el comprador deberá cancelar contra entrega el producto o podrá anticipar el pago según lo convengan.</p>
 											</div>
 										</div>
 									</li>
@@ -99,61 +99,61 @@
 										<div id="accordion-1-panel-7">
 											<div class="accordion-content">
 												<p class="lead mb-20">SI.</p>
-												<p>La información ingresada a AGRONEXO es absolutamente ABIERTA uno o más compradores podrán ver el precio de venta, no así lo podrán ver otros vendedores, resguardando así la libre competencia. </p>
+												<p>La información ingresada a AgroNexo es absolutamente ABIERTA uno o más compradores podrán ver el precio de venta, no así lo podrán ver otros vendedores, resguardando así la libre competencia. </p>
 											</div>
 										</div>
 									</li>
 									<li>
-										<a href="#accordion-1-panel-8">Are list ID's required?</a>
+										<a href="#accordion-1-panel-8">¿Cuales son los costos de participar en el portal?</a>
 										<div id="accordion-1-panel-8">
 											<div class="accordion-content">
-												<p class="lead mb-20">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
-												<p>Accordions are a great way for presenting information in a limited amount of space. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+												<p class="lead mb-20">En AgroNexo, están definidos los costos de participar, este costo le da derecho a publicar durante todo un año y de comprar las veces que quiera.</p>
+												<p>Para mayor información, puede comunicarse con contacto@agronexo.cl.</p>
 											</div>
 										</div>
 									</li>
 									<li>
-										<a href="#accordion-1-panel-9">Are list ID's required?</a>
+										<a href="#accordion-1-panel-9">Si no compro nada ¿Hay algún costo asociado?</a>
 										<div id="accordion-1-panel-9">
 											<div class="accordion-content">
-												<p class="lead mb-20">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
-												<p>Accordions are a great way for presenting information in a limited amount of space. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+												<p class="lead mb-20">No.</p>
+												<p>AgroNexo solo cobra una cuota de incorporación</p>
 											</div>
 										</div>
 									</li>
 									<li>
-										<a href="#accordion-1-panel-10">Are list ID's required?</a>
+										<a href="#accordion-1-panel-10">¿Existe alguna manera de diferenciarme del resto?</a>
 										<div id="accordion-1-panel-10">
 											<div class="accordion-content">
-												<p class="lead mb-20">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
-												<p>Accordions are a great way for presenting information in a limited amount of space. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+												<p class="lead mb-20">Sí.</p>
+												<p> En AgroNexo existe una serie de variables propicias para establecer elementos diferenciadores, dentro de las cuales están las evaluaciones entregadas por los compradores,  las fichas técnicas de los productos que produce y que aplica para una mayor producción.</p>
 											</div>
 										</div>
 									</li>
 									<li>
-										<a href="#accordion-1-panel-11">Are list ID's required?</a>
+										<a href="#accordion-1-panel-11">¿Porqué AgroNexo promueve una mayor transparencia?</a>
 										<div id="accordion-1-panel-11">
 											<div class="accordion-content">
-												<p class="lead mb-20">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
-												<p>Accordions are a great way for presenting information in a limited amount of space. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+												<p class="lead mb-20">AgroNexo es un portal que tiende a minimizar los costos de transacción, automatizando todo el engorroso y desgastante proceso de captación de ofertas.</p>
+												<p>A través de nuestro Portal, los requerimientos de las personas compradoras se gestionan de forma inclusiva, llegando automáticamente a los vendedores inscritos en las categorías correspondientes. Al mismo tiempo, siendo conocidas por los compradores de forma simultánea. Por último, el proceso en Agronexo promueve la competencia justa y el Compliance, dejando trazabilidad a los compradores de todas las ofertas recibidas por cada proveedor.</p>
 											</div>
 										</div>
 									</li>
 									<li>
-										<a href="#accordion-1-panel-12">Are list ID's required?</a>
+										<a href="#accordion-1-panel-12">¿Tiene soporte técnico donde aclarar dudas?</a>
 										<div id="accordion-1-panel-12">
 											<div class="accordion-content">
-												<p class="lead mb-20">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
-												<p>Accordions are a great way for presenting information in a limited amount of space. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+												<p class="lead mb-20">Tenemos un servicio permanente de atención en horarios hábiles.</p>
+												<p>Para soporte técnico y comercial referirse al correo CONTACTO@AGRONEXO.CL. Al mismo tiempo, está operativo un canal de chat desde las sesiones de usuarios.</p>
 											</div>
 										</div>
 									</li>
 									<li>
-										<a href="#accordion-1-panel-13">Are list ID's required?</a>
+										<a href="#accordion-1-panel-13">¿Con que navegador puedo usar el portal?</a>
 										<div id="accordion-1-panel-13">
 											<div class="accordion-content">
-												<p class="lead mb-20">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
-												<p>Accordions are a great way for presenting information in a limited amount of space. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+												<p class="lead mb-20">Si bien se puede utilizar cualquier navegador</p>
+												<p>Recomendamos la conexión a través de Google Chrome. Si desea utilizar Internet Explorer, se recomiendan versiones posteriores a la 10.0.</p>
 											</div>
 										</div>
 									</li>
