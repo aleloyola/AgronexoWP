@@ -6,49 +6,37 @@
 						<div class="column width-6 offset-3">
 							<div class="widget center left-on-mobile">
 								<div class="footer-logo">
-									<a href="index.html"><img src="images/logo-dark.png" alt="Faulkner Logo" /></a>
+									<a href="index.html"><img src="images/logoAN-dark.png" alt="AgroNexo Logo" /></a>
 								</div>
 							</div>
 						</div>
 						<div class="column width-12">
 							<div class="row flex two-columns-on-tablet">
-								<div class="column width-3">
+								<div class="column width-4">
 									<div class="widget center">
-										<h3 class="widget-title mb-30">Product</h3>
+										<h3 class="widget-title mb-30">AgroNexo</h3>
 										<ul>
-											<li><a href="#">About us</a></li>
-											<li><a href="#">Careers</a></li>
-											<li><a href="#">Press</a></li>
+											<li><a href="#">Resumen</a></li>
+											<li><a href="#">Caracteristicas</a></li>
+											<li><a href="#">Precios</a></li>
 										</ul>
 									</div>
 								</div>
-								<div class="column width-3">
+								<div class="column width-4">
 									<div class="widget center">
-										<h3 class="widget-title mb-30">Company</h3>
+										<h3 class="widget-title mb-30">Recursos</h3>
 										<ul>
-											<li><a href="#">Overview</a></li>
-											<li><a href="#">Features</a></li>
-											<li><a href="#">Pricing</a></li>
+											<li><a href="#">Noticias</a></li>
+											<li><a href="#">Documentación</a></li>
+											<li><a href="faq.php">Preguntas frecuentes</a></li>
 										</ul>
 									</div>
 								</div>
-								<div class="column width-3">
+								<div class="column width-4">
 									<div class="widget center">
-										<h3 class="widget-title mb-30">Resources</h3>
+										<h3 class="widget-title mb-30">Contacto</h3>
 										<ul>
-											<li><a href="#">News</a></li>
-											<li><a href="#">Documentation</a></li>
-											<li><a href="#">Faq</a></li>
-										</ul>
-									</div>
-								</div>
-								<div class="column width-3">
-									<div class="widget center">
-										<h3 class="widget-title mb-30">Contact</h3>
-										<ul>
-											<li><a href="#">Email us</a></li>
-											<li><a href="#">Tweet Faulkner</a></li>
-											<li><a href="#">Visit the office</a></li>
+											<li><a href="mailto:contacto@agronexo.cl">Envianos un Email</a></li>
 										</ul>
 									</div>
 								</div>
@@ -60,7 +48,7 @@
 					<div class="row">
 						<div class="column width-6 offset-3">
 							<div class="widget center left-on-mobile">
-								<p class="mb-0">&copy; ThemeMountain. All Rights Reserved.</p>
+								<p class="mb-0">&copy; Marduk ITS. All Rights Reserved.</p>
 							</div>
 						</div>
 					</div>

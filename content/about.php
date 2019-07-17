@@ -5,26 +5,18 @@
 							<div>
 								<div class="row">
 									<div class="column width-10 offset-1">
-										<h3 class="mb-30">About Faulkner</h3>
-										<p class="lead mb-50">Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+										<h3 class="mb-30">AgroNexo</h3>
+										<p class="lead mb-50">Somos una empresa nacida para cubrir  las necesidades de nuestros agricultores, pescadores, viñeros y productores de carnes de Chile, los cuales tienen un serió problema de vender sus productos a intermediarios debido a que no les pagan el precio justo, implementamos esta plataforma web, para que cada uno de nuestros clientes pueda mostrar sus productos, los cuales son visto en todo el territorio nacional, logrando tener un abastecimiento de sus productos en todo el país.</p>
 									</div>
 								</div>
 								<div class="row flex">
 									<div class="column width-5 offset-1">
-										<h4 class="mb-30">Easy Access</h4>
-										<p class="mb-50">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labor.</p>
-									</div>
-									<div class="column width-5">
-										<h4 class="mb-30">Efficiency</h4>
-										<p class="mb-50">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+										<h4 class="mb-30">Producción y compraventa</h4>
+										<p class="mb-50">En AgroNexo, encontraras de todo y todas las soluciones que necesites para tu producción y compraventa.</p>
 									</div>
 									<div class="column width-5 offset-1">
-										<h4 class="mb-30">Easy Access</h4>
-										<p class="mb-50">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labor.</p>
-									</div>
-									<div class="column width-5">
-										<h4 class="mb-30">Efficiency</h4>
-										<p class="mb-50">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+										<h4 class="mb-30">Precios justos</h4>
+										<p class="mb-50">Al brindar un canal de comunicación directo entre los compradores y los vendedores.</p>
 									</div>
 								</div>
 							</div>
@@ -33,12 +25,12 @@
 							<div>
 								<div class="box rounded xlarge bkg-white border-grey-light">
 									<div class="box xlarge ignore-parent-padding first bkg-green color-white">
-										<h4>Did You Know?</h4>
+										<h4>¿Sabías que?</h4>
 									</div>
-									<p class="lead">You no longer need to pay different comissions per credit card provider. Pay a single fee for all. Simple!</p>
+									<p class="lead">Nuestra orientación es directamente al campo y sus derivados, para que logren su mayor producción y venta.</p>
 									<div class="box xlarge ignore-parent-padding last bkg-grey-ultralight">
-										<h4>Read the Docs</h4>
-										<p class="opacity-07">We’re working to add many more payment types. Request the ones you need and we’ll reach out when they’re ready.</p>
+										<h4>¿Hacía donde vamos?</h4>
+										<p class="opacity-07">Para esto, nuestra empresa los puede asesorar en la compra de productos necesarios para el campo, en  riego, en tecnología, en todo lo que necesiten, así , en un futuro cercano podrán vender sus productos no solo en Chile , sino también al exterior de  nuestro territorio nacional.</p>
 										<a href="#" class="read-more">Read More →</a>
 									</div>
 								</div>

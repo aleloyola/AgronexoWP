@@ -22,7 +22,7 @@
 							<nav class="navigation nav-block primary-navigation nav-left sub-menu-indicator">
 								<ul>
 									<li class="current">
-										<a href="#home" class="scroll-link">Home</a>
+										<a href="index.php" class="scroll-link">Home</a>
 									</li>
 									<li>
 										<a href="#about" class="scroll-link">Nosotros</a>
@@ -38,16 +38,16 @@
 													<h4>Comienza</h4>
 												</li>
 												<li>
-													<a href="index.html">Resumen</a>
-												</li>
+													<a href="index.php">Resumen</a>
+												</li><!--
 												<li>
 													<a href="homepage-mobile-application-2.html">Sistemas de Pago</a>
+												</li>-->
+												<li>
+													<a href="index.php#about">Nosotros</a>
 												</li>
 												<li>
-													<a href="about-style-one.html">Nosotros</a>
-												</li>
-												<li>
-													<a href="elements-pricing-tables.html">Pricing</a>
+													<a href="#">Precios</a>
 												</li>
 											</ul>
 											<ul class="bkg-grey-ultralight">
@@ -64,7 +64,7 @@
 													<a href="elements-feature-columns.html">Caracteristicas</a>
 												</li>
 												<li>
-													<a href="frequently-asked-questions.html">Preguntas Frecuentes</a>
+													<a href="faq.php">Preguntas Frecuentes</a>
 												</li>
 											</ul>
 										</div>
