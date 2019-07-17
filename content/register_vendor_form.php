@@ -1,82 +1,93 @@
 
+<div class="contact-form-container">
 
-<form name="contact-form" action="content/post_vendor.php" method="post" id="contact-form">
+<div class="row">
 
-<div class="form-group">
-<label for="Country">Country</label>
-<input type="text" class="form-control" name="country" placeholder="country" required>
+
+<form name="contact-form" class = "contact-form" action="content/post_vendor.php" method="post" id="contact-form">
+
+<div class="column width-6">
+<label for="Country">Pais(*)</label>
+<input type="text" class="form-element" name="country" placeholder="Pais" required>
 </div>
 
 
-<div class="form-group">
-<label for="Razon Social">Razon Social</label>
-<input type="text" class="form-control" name="company_legalname" placeholder="Legal Name" required>
+<div class="column width-6">
+<label for="Razon Social">Razon Social(*)</label>
+<input type="text" class="form-element" name="company_legalname" placeholder="Legal Name" required>
 </div>
 
 
-<div class="form-group">
-<label for="Giro">Giro</label>
-<input type="text" class="form-control" name="company_industry" placeholder="Industry" required>
+<div class="column width-6">
+<label for="Giro">Giro(*)</label>
+<input type="text" class="form-element" name="company_industry" placeholder="Industry" required>
 </div>
 
 
-<div class="form-group">
+<div class="column width-6">
 <label for="name">Nombre Fantasia</label>
-<input name="text" class="form-control" name="company_name" placeholder="name" required>
+<input name="text" class="form-element" name="company_name" placeholder="" >
 </div>
 
 
-<div class="form-group">
+<div class="column width-6">
 <label for="Address">Direccion Legal(*)</label>
-<input type="text" class="form-control" name="company_address" placeholder="address" required>
+<input type="text" class="form-element" name="company_address" placeholder="address" required>
 </div>
 
 
 
-<div class="form-group">
-<label for="City">Ciudad</label>
-<input type="text" class="form-control" name="company_city" placeholder="City" required>
+<div class="column width-6">
+<label for="City">Ciudad (*)</label>
+<input type="text" class="form-element" name="company_city" placeholder="City" required>
 </div>
 
 
-<div class="form-group">
+<div class="column width-6">
 <label for="Website">Sitio Web</label>
-<input type="text" class="form-control" name="company_website" placeholder="Website">
-</div>
-
-Datos Usuario
-
-<div class="form-group">
-<label for="Username">Nombre</label>
-<input type="text" class="form-control" name="user_name" placeholder="username" required>
+<input type="text" class="form-element" name="company_website" placeholder="http://tusitio.com">
 </div>
 
 
+</div>
+<div class="row">
+<h3>Datos Usuario</h3>
 
-<div class="form-group">
-<label for="Email">Email</label>
-<input type="text" class="form-control" name="user_email" placeholder="email" required>
+<div class="column width-6">
+<label for="Username">Nombre(*)</label>
+<input type="text" class="form-element" name="user_name" placeholder="" required>
 </div>
 
 
 
-<div class="form-group">
-<label for="Phone">Telefono</label>
-<input type="text" class="form-control" name="user_phone" placeholder="phone" required>
+<div class="column width-6">
+<label for="Email">Email(*)</label>
+<input type="email" class="form-element" name="user_email" placeholder="tunombre@tudominio.com" required>
 </div>
 
 
 
-<div class="form-group">
+<div class="column width-6">
+<label for="Phone">Telefono(*)</label>
+<input type="text" class="form-element" name="user_phone" placeholder="" required>
+</div>
+
+
+
+<div class="column width-6">
 <label for="Position">Cargo</label>
-<input type="text" class="form-control" name="user_position" placeholder="Position" required>
+<input type="text" class="form-element" name="user_position" placeholder="">
 </div>
 
 
+<div class="clear"></div>
+<button type="submit" class="form-submit large button rounded bkg-blue-light bkg-hover-navy color-white color-hover-white" name="Enviar" value="Submit" id="submit_form">
+    Enviar
+</button>
 
-
-
-
-<button type="submit" class="btn btn-primary" name="submit" value="Submit" id="submit_form">Submit</button>
-<img src="img/loading.gif" id="loading-img">
+</div>
 </form>
+
+<div class="form-response"></div>
+
+</div>

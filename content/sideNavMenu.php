@@ -13,6 +13,29 @@
 				<nav class="side-navigation nav-block">
 					<ul>
 						<li class="current">
+
+						<a href="#" class="contains-sub-menu">Contenido</a>
+							<ul class="sub-menu">
+								<li>
+									<a href="content/about.php">About</a>
+								</li>
+								<li>
+									<a href="register_vendor.php">Inscripciòn Proveedor</a>
+								</li>
+
+								<li>
+									<a href="register_buyer.php">Inscripción Comprador</a>
+								</li>
+							</ul>
+
+
+
+						</li>
+
+					</ul>
+
+					<!--ul>
+						<li class="current">
 							<a href="#" class="contains-sub-menu">Demos</a>
 							<ul class="sub-menu">
 								<li>
@@ -483,7 +506,7 @@
 								</li>
 							</ul>
 						</li>
-					</ul>
+					</ul-->
 				</nav>
 				<div class="side-navigation-footer">
 					<p class="copyright no-margin-bottom">&copy; 2019 Marduk ITS.</p>

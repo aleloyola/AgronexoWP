@@ -7,12 +7,23 @@
 								<div class="column width-6 v-align-middle">
 									<div>
 										<h1 class="color-white">AgroNexo | Tú negocio, tú decisión</h1>
-										<p class="lead color-white">AgroNexo se fundó sobre tres principios: calidad, precios justos y servicio único, y nos enorgullece regirnos por ellos día a día. Contamos con excelente atención al cliente para cubrir todas sus necesidades. Descubre lo que podemos hacer por ti, 
-Inscríbete en cualquiera de nuestros servicios y se parte de nosotros</p>
+										<p class="lead color-white">AgroNexo se fundó sobre tres principios: calidad, precios justos y servicio único, y nos enorgullece regirnos por ellos día a día. Contamos con excelente atención al cliente para cubrir todas sus necesidades. Descubre lo que podemos hacer por ti, Inscríbete en cualquiera de nuestros servicios y se parte de nosotros</p>
 										<a href="#about" class="scroll-link button rounded medium border-white bkg-hover-green color-white color-hover-white left mb-80">
 											Descubre nuestra solución
 										</a>
 									</div>
+								</div>
+
+								<div class="column width-5 offset-1">
+								<div class="signup-box box rounded xlarge mb-0 bkg-white shadow">
+								<h3>Inscribete!</h3><br>
+								<h5>Nos comunicaremos contigo</h5>
+								<?php 
+								
+								require_once('register_select_emb.php')
+								
+								?>
+								</div>
 								</div>
 
 
