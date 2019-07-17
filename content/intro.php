@@ -14,7 +14,9 @@ Inscríbete en cualquiera de nuestros servicios y se parte de nosotros</p>
 										</a>
 									</div>
 								</div>
-								<div class="column width-5 offset-1">
+
+
+								<!--div class="column width-5 offset-1">
 									<div class="signup-box box rounded xlarge mb-0 bkg-white shadow">
 										<h3>Crear una cuenta</h3>
 										<p class="mb-20">¿Ya tienes una cuenta? <a href="index-login-4.html" class="fade-location">Clickea aquí</a></p>
@@ -56,7 +58,9 @@ Inscríbete en cualquiera de nuestros servicios y se parte de nosotros</p>
 											<div class="form-response show"></div>
 										</div>
 									</div>
-								</div>
+								
+								
+								</div!-->
 							</div>
 						</div>
 					</div>
