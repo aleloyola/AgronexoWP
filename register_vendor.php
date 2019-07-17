@@ -27,7 +27,7 @@
     
         <!--div class="column width-5 offset-1"-->
 		<!--div class="signup-box box rounded xlarge mb-0 bkg-white shadow"-->
-		<h3>Proveedor</h3><br>
+
 
 		<?php
          require_once('content/register_vendor_form.php');

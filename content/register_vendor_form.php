@@ -1,10 +1,12 @@
 
 <div class="contact-form-container">
 
+<form name="contact-form" class = "contact-form" action="content/post_vendor.php" method="post" id="contact-form">
+
 <div class="row">
 
+<h3>&nbsp;&nbsp;&nbsp;Proveedor</h3><br>
 
-<form name="contact-form" class = "contact-form" action="content/post_vendor.php" method="post" id="contact-form">
 
 <div class="column width-6">
 <label for="Country">Pais(*)</label>
@@ -51,7 +53,7 @@
 
 </div>
 <div class="row">
-<h3>Datos Usuario</h3>
+<h3>&nbsp;&nbsp;&nbsp;Datos Usuario</h3>
 
 <div class="column width-6">
 <label for="Username">Nombre(*)</label>
@@ -80,7 +82,7 @@
 </div>
 
 
-<div class="clear"></div>
+
 <button type="submit" class="form-submit large button rounded bkg-blue-light bkg-hover-navy color-white color-hover-white" name="Enviar" value="Submit" id="submit_form">
     Enviar
 </button>
