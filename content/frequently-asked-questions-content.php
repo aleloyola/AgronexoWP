@@ -1,5 +1,6 @@
 <div class="content clearfix">
-
+<div id="home" class="section-block hero-2-4 window-height clear-height-on-tablet">
+					<div class="media-overlay bkg-black opacity-05"></div>
 				<!-- Intro Title Section 1 -->
 				<div class="section-block intro-title-1 small">
 					<div class="row">
@@ -9,7 +10,7 @@
 									<div class="row flex">
 										<div class="column width-6 v-align-middle">
 											<div>
-												<h1 class="mb-0">Preguntaas frecuentes</h1>
+												<h1 class="mb-0">Preguntas frecuentes</h1>
 												<p class="lead mb-0 mb-mobile-20">Actualizado al 16 Jul 2019</p>
 											</div>
 										</div>
@@ -204,3 +205,5 @@
 				<!-- Faq Section End -->
 
 			</div>
+</div>
+</div>
