@@ -23,19 +23,33 @@
 
 
                         <br>
-        <!--div class="column width-5 offset-1"-->
-		<!--div class="signup-box box rounded xlarge mb-0 bkg-white shadow"-->
-		<?php
-         require_once('content/register_vendor_form.php');
-          ?>
-				<!--/div-->
-				<!--/div-->
-				<!--/*require_once('content/about.php');*/
-				/*require_once('content/hero5.php');*/
-                /*require_once('content/custom_signup.php');*/
-				/*require_once('content/logoslider.php');*/
-                /*require_once('content/calltoaction.php');*/
-                -->
+
+    
+       
+
+        <!--START RESPONDE SECTION VENDOR FORM -->
+
+        <div class="section-block fullscreen-section background-fixed">
+	        <div class="background-image-wrapper">
+
+
+            GRACIAS POR REGISTRARTE CON NOSOTROS 
+
+            TE CONTACTAREMOS A LA BREVEDAD
+
+
+		<div class="background-image bkg-image-1"></div>
+	</div>
+                </div>
+
+
+
+        <!--END RESPONDE SECTION VENDOR FORM -->
+
+
+			
+
+
         </div>
     </div>
                         </div>
@@ -46,10 +60,6 @@
     	</div>
 	</div>
     <?php require_once('content/scripts.php'); ?>
-
-
-    	<input type="submit" class="form-submit large button rounded bkg-blue-light bkg-hover-navy color-white color-hover-white" name="Enviar" value="Enviar" id="submit_form">
-		
     </body>
 </html>
 

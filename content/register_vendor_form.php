@@ -1,12 +1,11 @@
 
-<div class="contact-form-container">
+<div class="register-vendor-form-container">
 
-<form name="contact-form" class = "contact-form" action="content/post_vendor.php" method="post" id="contact-form">
+<form name="register-vendor-form" class = "" action="content/post_vendor.php" method="post" id="contact-form">
 
 	<div class="row">
 
 	<h3>&nbsp;&nbsp;&nbsp;Proveedor</h3><br>
-
 
 	<div class="column width-6">
 		<label for="Country">Pais(*)</label>
@@ -63,33 +62,24 @@
 	<input type="text" class="form-element" name="user_name" placeholder="" required>
 	</div>
 
-
-
 	<div class="column width-6">
 	<label for="Email">Email(*)</label>
 	<input type="email" class="form-element" name="user_email" placeholder="tunombre@tudominio.com" required>
 	</div>
-
-
 
 	<div class="column width-6">
 	<label for="Phone">Telefono(*)</label>
 	<input type="text" class="form-element" name="user_phone" placeholder="" required>
 	</div>
 
-
-
 	<div class="column width-6">
 	<label for="Position">Cargo</label>
 	<input type="text" class="form-element" name="user_position" placeholder="">
 	</div>
 
-
 	<div class="column width-6">
-		<button type="submit" class="form-submit large button rounded bkg-blue-light bkg-hover-navy color-white color-hover-white" name="Enviar" value="Submit" id="submit_form">
-			Enviar
-		</button>
-
+		<input type="submit" class="form-submit large button rounded bkg-blue-light bkg-hover-navy color-white color-hover-white" name="Enviar" value="Enviar" id="submit_form">
+		
 	</div>
 
 
@@ -97,3 +87,19 @@
 </form>	
 	<div class="form-response"></div>
 </div>
+
+
+
+<script>
+$.ajax({
+    type: "POST",
+    url: "/ajax/request.html",
+    data: {action: 'test'},
+    dataType:'JSON', 
+    success: function(response){
+        //console.log(response.blablabla);
+        alert(response.blablabla);
+		// put on console what server sent back...
+    }
+});
+</script>

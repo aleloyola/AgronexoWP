@@ -40,9 +40,16 @@ $sql = "INSERT INTO prospect_vendor (country, company_name, company_industry, co
 $sql = $sql . "VALUES ('" . $country . "', '" . $company_name . "','" . $company_industry . "' , '" . $company_legalname . "','" .$company_address  . "','" . $company_city .  "','" . $company_website .  "','" . $user_name  .  "', '" . $user_email . "', '" . $user_phone. "','" . $user_position .   "')";
 
 if ($conn->query($sql) === TRUE) {
-    echo "New record created successfully - vendor";
+    //echo "New record created successfully - vendor";
+    //$variable = "New record created successfully - vendor";
+    //echo json_encode(array("blablabla"=>$variable));
+    $newURL = "../register_vendor_post_response.php";
+    header('Location: '.$newURL);  
+    die();
 } else {
     echo "Error: " . $sql . "<br>" . $conn->error;
+    //$variable = "New record created successfully - vendor";
+
 }
 
 $conn->close();
