@@ -34,9 +34,6 @@
 									<li>
 										<a href="#about" class="scroll-link">Nosotros</a>
 									</li>
-									<li class="<?php echo $current_page == 'faq.php' ? 'current':NULL ?>">
-										<a href="faq.php" >Ayuda</a>
-									</li>
 									<li class="contains-sub-menu">
 										<a href="#how-it-works" class="scroll-link">Como trabaja</a>
 										<div class="sub-menu custom-content">
@@ -81,6 +78,12 @@
 									</li>
 									<li>
 										<a href="#signup" class="scroll-link">Stay Connected</a>
+									</li>
+									<li class="<?php echo $current_page == 'pricing.php' ? 'current':NULL ?>">
+										<a href="pricing.php" >Costos</a>
+									</li>
+									<li class="<?php echo $current_page == 'faq.php' ? 'current':NULL ?>">
+										<a href="faq.php" >Ayuda</a>
 									</li>
 								</ul>
 							</nav>

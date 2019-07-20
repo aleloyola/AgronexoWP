@@ -16,6 +16,9 @@
 
 						<a href="#" class="contains-sub-menu">Contenido</a>
 							<ul class="sub-menu">
+								<li class="<?php echo $current_page == 'index.php' ? 'current':NULL ?>">
+										<a href="index.php" >Home</a>
+									</li>
 								<li>
 									<a href="content/about.php">About</a>
 								</li>
@@ -26,8 +29,14 @@
 								<li>
 									<a href="register_buyer.php">Inscripción Comprador</a>
 								</li>
+								<li class="<?php echo $current_page == 'pricing.php' ? 'current':NULL ?>">
+										<a href="pricing.php" >Costos</a>
+									</li>
+								<li class="<?php echo $current_page == 'faq.php' ? 'current':NULL ?>">
+										<a href="faq.php" >Ayuda</a>
+									</li>
 							</ul>
-
+							
 
 
 						</li>
