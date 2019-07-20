@@ -1,3 +1,10 @@
+<?php 
+	// function to get the current page name
+	function PageName() {
+	return substr($_SERVER["SCRIPT_NAME"],strrpos($_SERVER["SCRIPT_NAME"],"/")+1);
+	}
+	$current_page = PageName();
+?>
 			<!-- Header -->
 			<header class="header header-absolute header-transparent header-fixed-on-mobile" data-helper-in-threshold="200" data-helper-out-threshold="500" data-sticky-threshold="200" data-bkg-threshold="100">
 				<div class="header-inner">
@@ -11,8 +18,8 @@
 							</div>
 							<nav class="navigation nav-block secondary-navigation nav-right">
 								<ul>
-									<li class="aux-navigation">
-										<!-- Aux Navigation -->
+									<li class="aux-navigation hide">
+										
 										<a href="#" class="navigation-show side-nav-show nav-icon">
 											<span class="icon-menu"></span>
 										</a>
@@ -21,8 +28,8 @@
 							</nav>
 							<nav class="navigation nav-block primary-navigation nav-left sub-menu-indicator">
 								<ul>
-									<li class="current">
-										<a href="index.php" class="scroll-link">Home</a>
+									<li class="<?php echo $current_page == 'index.php' ? 'current':NULL ?>">
+										<a href="index.php">Home</a> 
 									</li>
 									<li>
 										<a href="#about" class="scroll-link">Nosotros</a>
@@ -55,13 +62,13 @@
 													<h4>Popular topics</h4>
 												</li>
 												<li>
-													<a href="index-register-2.html">Crear Cuenta</a>
+													<a href="index.php">Crear Cuenta</a>
 												</li>
-												<li>
+												<!--<li>
 													<a href="project-style-two.html">Roadmap</a>
-												</li>
+												</li>-->
 												<li>
-													<a href="elements-feature-columns.html">Caracteristicas</a>
+													<a href="index.php#how-it-works">Caracteristicas</a>
 												</li>
 												<li>
 													<a href="faq.php">Preguntas Frecuentes</a>
@@ -71,6 +78,12 @@
 									</li>
 									<li>
 										<a href="#signup" class="scroll-link">Stay Connected</a>
+									</li>
+									<li class="<?php echo $current_page == 'pricing.php' ? 'current':NULL ?>">
+										<a href="pricing.php" >Costos</a>
+									</li>
+									<li class="<?php echo $current_page == 'faq.php' ? 'current':NULL ?>">
+										<a href="faq.php" >Ayuda</a>
 									</li>
 								</ul>
 							</nav>

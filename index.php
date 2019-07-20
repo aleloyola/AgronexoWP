@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="zxx">
-<?php
-    require_once('content/head.php');
-    ?>
+<?php require_once('content/head.php'); ?>
     <body class="shop home-page">
     <?php require_once('content/sideNavMenu.php'); ?>
     <div class="wrapper reveal-side-navigation">
