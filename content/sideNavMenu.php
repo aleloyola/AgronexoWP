@@ -1,6 +1,6 @@
 
 <!-- Side Navigation Menu -->
-	<aside class="side-navigation-wrapper enter-right" data-no-scrollbar data-animation="slide-in">
+	<aside class="side-navigation-wrapper enter-right" data-animation="slide-in">
 		<div class="side-navigation-scroll-pane">
 			<div class="side-navigation-inner">
 				<div class="side-navigation-header">
@@ -20,7 +20,7 @@
 									<a href="content/about.php">About</a>
 								</li>
 								<li>
-									<a href="register_vendor.php">Inscripciòn Proveedor</a>
+									<a href="register_vendor.php">Inscripción Proveedor</a>
 								</li>
 
 								<li>
