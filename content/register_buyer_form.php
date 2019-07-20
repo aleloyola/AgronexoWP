@@ -1,9 +1,5 @@
-
-<div class="contact-form-container">
-
-
-
-	<form name="contact-form" class = "contact-form"  action="content/post_buyer.php" method="post" id="contact-form">
+<div class="register-buyer-form-container">
+	<form name="register-buyer-form" class = ""  action="content/post_buyer.php" method="post" id="contact-form">
 
 		<div class="row">
 
@@ -88,9 +84,8 @@
 
 
 		<div class="column width-6">
-		<button type="submit" class="form-submit large button rounded bkg-blue-light bkg-hover-navy color-white color-hover-white" name="Enviar" value="Submit" id="submit_form">
-			Enviar
-		</button>
+		<input type="submit" class="form-submit large button rounded bkg-blue-light bkg-hover-navy color-white color-hover-white" name="Enviar" value="Enviar" id="submit_form">
+		
 
 		</div>
 

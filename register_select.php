@@ -9,7 +9,6 @@ function Proveedor(){
     window.location.href = "register_vendor.php"
 }
 
-
 function Comprador(){
     window.location.href = "register_buyer.php"
 }
@@ -21,9 +20,7 @@ function Comprador(){
     <div class="wrapper reveal-side-navigation">
 		<div class="wrapper-inner">
             <?php 
-
-            require_once('content/header.php');
-            
+            require_once('content/header.php');  
             ?>
 
             <br>

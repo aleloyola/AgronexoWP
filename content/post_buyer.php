@@ -39,6 +39,12 @@ $sql = $sql . "VALUES ('" . $country . "', '" . $company_name . "','" . $company
 
 if ($conn->query($sql) === TRUE) {
     echo "New record created successfully - buyer";
+      //echo "New record created successfully - buyer";
+    //$variable = "New record created successfully - buyer";
+    //echo json_encode(array("blablabla"=>$variable));
+    $newURL = "../register_vendor_post_response.php";
+    header('Location: '.$newURL);  
+    die();
 } else {
     echo "Error: " . $sql . "<br>" . $conn->error;
 }
