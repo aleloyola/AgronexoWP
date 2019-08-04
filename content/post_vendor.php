@@ -1,8 +1,8 @@
 <?php
 $servername = "127.0.0.1";
-$username = "root";
-$password = "1234";
-$dbname = "agronexo";
+$username = "agrouser";
+$password = "TheWorld2019";
+$dbname = "agrodb";
 
 
 $country = $_POST['country'];
