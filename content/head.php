@@ -10,6 +10,10 @@
 	<meta property="og:image" content="http://dev.thememountain.com/faulkner/images/portfolio/projects/project-1-1.jpg" />
 	<meta property="og:description" content="AgroNexo | Tú negocio, tú decisión" />
 
+
+
+
+
 	<!-- Twitter Theme -->
 	<meta name="twitter:widgets:theme" content="light">
 	
