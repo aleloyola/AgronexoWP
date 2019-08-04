@@ -38,11 +38,11 @@ $sql = "INSERT INTO prospect_buyer (country, company_name, company_industry, com
 $sql = $sql . "VALUES ('" . $country . "', '" . $company_name . "','" . $company_industry . "' , '" . $company_legalname . "','" .$company_address  . "','" . $company_city .  "','" . $company_website .  "','" . $user_name  .  "', '" . $user_email . "', '" . $user_phone. "','" . $user_position .   "')";
 
 if ($conn->query($sql) === TRUE) {
-    echo "New record created successfully - buyer";
+    //echo "New record created successfully - buyer";
       //echo "New record created successfully - buyer";
     //$variable = "New record created successfully - buyer";
     //echo json_encode(array("blablabla"=>$variable));
-    $newURL = "../register_vendor_post_response.php";
+    $newURL = "../register_buyer_post_response.php";
     header('Location: '.$newURL);  
     die();
 } else {
