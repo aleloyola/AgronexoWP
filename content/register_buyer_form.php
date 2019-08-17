@@ -1,11 +1,11 @@
-<div class="content clearfix">
+<div class="section-block bkg-grey-ultralight">
 	<form name="register-buyer-form" class = ""  action="content/post_buyer.php" method="post" id="contact-form">
 
-		<div class="row flex">
+		<div class="row">
 
 		<h3>&nbsp;&nbsp;&nbsp;Comprador</h3><br>
 
-		<div class="row flex">
+		<div class="row">	
 			<div class="column width-3">
 			<label for="Country">País(*)</label>
 				<div class="form-select form-element">
@@ -27,7 +27,7 @@
 			<input type="text" class="form-element" name="company_industry" placeholder="Industria" required>
 			</div>
 		</div>
-		<div class="row flex">
+		<div class="row">
 			<div class="column width-3">
 			<label for="name">Nombre Fantasia</label>
 			<input name="text" class="form-element" name="company_name" placeholder="" >
@@ -46,16 +46,16 @@
 			<input type="text" class="form-element" name="company_city" placeholder="City" required>
 			</div>
 		</div>
-		<div class="row flex">
+		<div class="row">
 			<div class="column width-3">
 			<label for="Website">Sitio Web</label>
 			<input type="text" class="form-element" name="company_website" placeholder="http://tusitio.com">
 			</div>
 		</div>
-		<div class="row flex">
+		<div class="row">
 		<h3>&nbsp;&nbsp;&nbsp;Datos Usuario</h3>
 		</div>
-		<div class="row flex">
+		<div class="row">
 			<div class="column width-3">
 			<label for="Username">Nombre(*)</label>
 			<input type="text" class="form-element" name="user_name" placeholder="" required>
@@ -75,7 +75,7 @@
 			<input type="text" class="form-element" name="user_phone" placeholder="" required>
 			</div>
 		</div>
-		<div class="row flex">
+		<div class="row">
 			<div class="column width-3">
 			<label for="Position">Cargo</label>
 			<input type="text" class="form-element" name="user_position" placeholder="">
