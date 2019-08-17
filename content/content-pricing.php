@@ -56,7 +56,7 @@
 									</div>
 									<hr class="no-margins">
 									<div class="pricing-table-text bkg-white">
-										<p>Los vendedores en nuestra plataforma cancelando el costo anual podrán acceder a:</p>
+										<p>Los vendedores en nuestra plataforma podrán acceder a:</p>
 										<ul class="mb-0">
 											<li>Publicación de sus productos por un año para todo el país</li>
 											<li>Asesorías tecnológicas</li>
