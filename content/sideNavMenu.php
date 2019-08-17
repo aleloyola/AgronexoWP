@@ -17,10 +17,10 @@
 						<a href="#" class="contains-sub-menu">Contenido</a>
 							<ul class="sub-menu">
 								<li class="<?php echo $current_page == 'index.php' ? 'current':NULL ?>">
-										<a href="index.php" >Home</a>
+										<a href="index.php" >Inicio</a>
 									</li>
 								<li>
-									<a href="content/about.php">About</a>
+									<a href="content/about.php">Acerca de nosotros</a>
 								</li>
 								<li>
 									<a href="register_vendor.php">Inscripción Proveedor</a>

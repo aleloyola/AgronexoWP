@@ -29,7 +29,7 @@
 							<nav class="navigation nav-block primary-navigation nav-left sub-menu-indicator">
 								<ul>
 									<li class="<?php echo $current_page == 'index.php' ? 'current':NULL ?>">
-										<a href="index.php">Home</a> 
+										<a href="index.php">Inicio</a> 
 									</li>
 									<li>
 										<a href="#about" class="scroll-link">Nosotros</a>
@@ -59,7 +59,7 @@
 											</ul>
 											<ul class="bkg-grey-ultralight">
 												<li>
-													<h4>Popular topics</h4>
+													<h4>Tópicos populares</h4>
 												</li>
 												<li>
 													<a href="index.php">Crear Cuenta</a>
@@ -77,7 +77,7 @@
 										</div>
 									</li>
 									<li>
-										<a href="#signup" class="scroll-link">Stay Connected</a>
+										<a href="#signup" class="scroll-link">Mantente en contacto</a>
 									</li>
 									<li class="<?php echo $current_page == 'pricing.php' ? 'current':NULL ?>">
 										<a href="pricing.php" >Costos</a>
