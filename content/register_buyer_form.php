@@ -1,4 +1,4 @@
-<div class="register-buyer-form-container">
+<div class="content clearfix">
 	<form name="register-buyer-form" class = ""  action="content/post_buyer.php" method="post" id="contact-form">
 
 		<div class="row">
