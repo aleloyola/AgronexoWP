@@ -13,18 +13,18 @@
 									<div class="row flex">
 										<div class="column width-6 v-align-middle">
 											<div>
-												<h1 class="mb-0">Pricing Tables</h1>
-												<p class="lead mb-0 mb-mobile-20">Professional looking options</p>
+												<h1 class="mb-0">Tabla de Precios </h1>
+												<p class="lead mb-0 mb-mobile-20">Opciones de uso de nuestra plataforma</p>
 											</div>
 										</div>
 										<div class="column width-6 v-align-middle">
 											<div>
 												<ul class="breadcrumb inline-block mb-0 pull-right clear-float-on-mobile">
 													<li>
-														<a href="index.html">Elements</a>
+														<a href="index.php">Inicio</a>
 													</li>
 													<li>
-														Pricing Tables
+														Tabla de Precios
 													</li>
 												</ul>
 											</div>
