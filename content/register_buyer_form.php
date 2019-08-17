@@ -1,4 +1,4 @@
-<div class="section-block bkg-grey-ultralight">
+<div class="content">
 	<form name="register-buyer-form" class = ""  action="content/post_buyer.php" method="post" id="contact-form">
 
 		<div class="row">
