@@ -10,7 +10,7 @@
 	<div class="column width-6">
 		<label for="Country">Pais(*)</label>
 			<div class="form-select form-element">
-				<select name="country" class="form-aux" data-label="Options" tabindex="x">
+				<select name="country" class="form-aux" data-label="Pais" tabindex="x">
 				<?php require_once('content/country_list.php') ?>
 				</select>
 			</div>
@@ -18,13 +18,13 @@
 
 		<div class="column width-6">
 		<label for="Razon Social">Razon Social(*)</label>
-		<input type="text" class="form-element" name="company_legalname" placeholder="Legal Name" required>
+		<input type="text" class="form-element" name="company_legalname" placeholder="Razon Social" required>
 		</div>
 
 
 		<div class="column width-6">
 		<label for="Giro">Giro(*)</label>
-		<input type="text" class="form-element" name="company_industry" placeholder="Industry" required>
+		<input type="text" class="form-element" name="company_industry" placeholder="Industria" required>
 		</div>
 
 
@@ -36,14 +36,14 @@
 
 		<div class="column width-6">
 		<label for="Address">Direccion Legal(*)</label>
-		<input type="text" class="form-element" name="company_address" placeholder="address" required>
+		<input type="text" class="form-element" name="company_address" placeholder="Dirección" required>
 		</div>
 
 
 
 		<div class="column width-6">
 		<label for="City">Ciudad (*)</label>
-		<input type="text" class="form-element" name="company_city" placeholder="City" required>
+		<input type="text" class="form-element" name="company_city" placeholder="Ciudad" required>
 		</div>
 
 
