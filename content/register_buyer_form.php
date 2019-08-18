@@ -1,10 +1,11 @@
-<div class="content">
+
+<div class="register-buyer-form-container">
 	<form name="register-buyer-form" class = ""  action="content/post_buyer.php" method="post" id="contact-form">
 
 		<div class="row">
 
 		<h3>&nbsp;&nbsp;&nbsp;Comprador</h3><br>
-
+	<hr>
 		<div class="row">	
 			<div class="column width-3">
 			<label for="Country">País(*)</label>
@@ -15,6 +16,7 @@
 				</div>
 			</div>
 
+		
 
 			<div class="column width-3">
 			<label for="Razon Social">Razon Social(*)</label>
@@ -52,9 +54,15 @@
 			<input type="text" class="form-element" name="company_website" placeholder="http://tusitio.com">
 			</div>
 		</div>
+
+
+		<hr>
 		<div class="row">
 		<h3>&nbsp;&nbsp;&nbsp;Datos Usuario</h3>
 		</div>
+
+		<hr>
+
 		<div class="row">
 			<div class="column width-3">
 			<label for="Username">Nombre(*)</label>

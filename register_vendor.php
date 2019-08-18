@@ -18,8 +18,8 @@
     <div id="home" class="section-block hero-2-4 window-height clear-height-on-tablet">
                     <div class="media-overlay bkg-black opacity-05"></div>
             
-					<div class="row flex v-align-middle bkg-white">
-						<div class="column width-12">
+					<!--div class="row flex v-align-middle bkg-white"-->
+						<div class="column width-12 bkg-grey-ultralight">
 
 
                         <br>
@@ -37,7 +37,7 @@
                 /*require_once('content/calltoaction.php');*/
                 -->
         </div>
-    </div>
+    <!--/div-->
                         </div>
 					</div>
             <?php

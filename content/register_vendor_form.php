@@ -6,7 +6,7 @@
 	<div class="row">
 
 	<h3>&nbsp;&nbsp;&nbsp;Proveedor</h3><br>
-
+	<hr>
 	<div class="column width-6">
 		<label for="Country">Pais(*)</label>
 			<div class="form-select form-element">
@@ -56,7 +56,7 @@
 	</div>
 	<div class="row">
 	<h3>&nbsp;&nbsp;&nbsp;Datos Usuario</h3>
-
+	<hr>
 	<div class="column width-6">
 	<label for="Username">Nombre(*)</label>
 	<input type="text" class="form-element" name="user_name" placeholder="" required>
